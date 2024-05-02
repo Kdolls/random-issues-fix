@@ -1,0 +1,24 @@
+follow instructions in link:
+
+https://snapcraft.io/install/ollama/debian
+
+
+
+Enable snapd
+
+On Debian 9 (Stretch) and newer, snap can be installed directly from the command line:
+
+sudo apt update
+sudo apt install snapd
+sudo snap install core
+
+Install ollama
+
+To install ollama, simply use the following command:
+
+sudo snap install ollama
+
+then run model with:
+
+ollama run 'model name'
+
