@@ -1,0 +1,3 @@
+nvidia driver issue caused ubunt boot failuer, uninstall all drivers to fix the issue and choose to install any different driver but the one the caused the issue.:
+
+https://ubuntu.com/server/docs/nvidia-drivers-installation
