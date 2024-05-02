@@ -1,0 +1,5 @@
+ubuntu packet tracer install erro solve:
+
+found missing dependency here: https://debian.pkgs.org/11/debian-main-amd64/libgl1-mesa-glx_20.3.5-1_amd64.deb.html
+
+download and run packet tracer install
